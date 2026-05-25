@@ -1,0 +1,11 @@
+node_modules
+dist
+dist-ssr
+.next
+coverage
+.env
+.env.local
+.env.*.local
+*.log
+.idea
+.DS_Store
